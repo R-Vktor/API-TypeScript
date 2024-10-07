@@ -5,6 +5,7 @@ generator client {
   provider = "prisma-client-js"
 }
 
+parte que identifica e linca a aplicacao com DB escolhido.
 datasource db {
   provider = "mongodb"
   url      = env("DATABASE_URL")
