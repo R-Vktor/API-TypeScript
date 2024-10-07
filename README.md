@@ -1,4 +1,5 @@
 # API restfull criada como projeto de conclusao do curso de typescript.
+API para registro, login de usuario.
 
 O projeto implementa: 
 - S.O.L.I.D
@@ -8,3 +9,5 @@ O projeto implementa:
 - Criptografia
 - Express
 - Prisma
+
+
