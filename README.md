@@ -7,3 +7,4 @@ O projeto implementa:
 - Autenticação
 - Criptografia
 - Express
+- Prisma
