@@ -4,7 +4,7 @@ O projeto implementa:
 - S.O.L.I.D
 - Celan Code
 - MongoDB
-- Autenticação
+- Autenticação com JWT
 - Criptografia
 - Express
 - Prisma
